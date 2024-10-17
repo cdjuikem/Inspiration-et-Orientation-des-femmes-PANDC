@@ -1,4 +1,4 @@
-# Hello ! Bienvenue dans à toi dans ce projet
+# Hello ! Bienvenue à toi dans ce projet
 
 ## Ce qu'il faut savoir sur le projet 
 
@@ -8,26 +8,14 @@ Ce projet vise à inspirer, orienter et encourager les femmes, en particulier le
 
 ### Le projet s'articule sur 3 niveaux 
 
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
+* Niveau 1: Primaire et secondaire : Rencontres avec les élèves de la 8e à la 12e année de la Division scolaire franco-manitobaine (DSFM).'
+* Niveau 2: Postsecondaire : Organisation d’un Workshop à l’Université de Saint-Boniface.
+* Niveau 3: Vidéos : Création de contenus vidéo pour d’autres établissements et un public plus large, ainsi que pour former des personnes souhaitant se lancer dans la vulgarisation ou m’accompagner dans ce projet.
 
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
 <!--If reusing this repository, delete this section -->
-## About README
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
 
 ```
 # Project Quick Start
