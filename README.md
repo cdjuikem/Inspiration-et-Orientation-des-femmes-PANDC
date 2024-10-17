@@ -6,7 +6,7 @@ Le projet intitulé « Inspiration, Orientation et Médiation des Sciences du Nu
 
 Ce projet vise à inspirer, orienter et encourager les femmes, en particulier les femmes PANDC (Personnes Autochtones, Noires et De Couleur), à s'orienter vers les métiers des sciences du numérique à trois niveaux.
 
-### Le projet s'articule sur 3 niveaux 
+### Le projet va se faire sur 3 niveaux 
 
 * Niveau 1: Primaire et secondaire : Rencontres avec les élèves de la 8e à la 12e année de la Division scolaire franco-manitobaine (DSFM).'
 * Niveau 2: Postsecondaire : Organisation d’un Workshop à l’Université de Saint-Boniface.
