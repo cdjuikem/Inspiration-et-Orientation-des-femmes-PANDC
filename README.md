@@ -1,19 +1,12 @@
-# Template for setting up reproducible projects
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Hello ! Bienvenue dans à toi dans ce projet
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+## Ce qu'il faut savoir sur le projet 
 
-## About this Repository
+Le projet intitulé « Inspiration, Orientation et Médiation des Sciences du Numérique : Focus sur les Femmes, en particulier les Femmes PANDC » a été sélectionné pour le programme pilote des Championnes et Champions de l’Équité, de la Diversité, de l’Inclusion et de l’Accessibilité (EDIA) dans l’Infrastructure de Recherche Numérique (IRN) financé par Digital Research Alliance of Canada | Alliance de recherche numérique du Canada.
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+Ce projet vise à inspirer, orienter et encourager les femmes, en particulier les femmes PANDC (Personnes Autochtones, Noires et De Couleur), à s'orienter vers les métiers des sciences du numérique à trois niveaux.
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
-
-### Using this Repository
+### Le projet s'articule sur 3 niveaux 
 
 ![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
 
