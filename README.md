@@ -10,7 +10,7 @@ Ce projet vise à inspirer, orienter et encourager les femmes, en particulier le
 
 * Niveau 1: Primaire et secondaire : Rencontres avec les élèves de la 8e à la 12e année de la Division scolaire franco-manitobaine (DSFM).'
 * Niveau 2: Postsecondaire : Organisation d’un Workshop à l’Université de Saint-Boniface.
-* Niveau 3: Vidéos : Création de contenus vidéo pour d’autres établissements et un public plus large, ainsi que pour former des personnes souhaitant se lancer dans la vulgarisation ou m’accompagner dans ce projet.
+* Niveau 3: Vidéos : Création de contenus vidéo pour d’autres établissements et un public plus large, ainsi que pour former des personnes souhaitant se lancer dans la vulgarisation ou m’accompagner dans ce projet. Les vidéos vont être publier sur la chaîne Youtube https://www.youtube.com/@tiohacademy/videos
 
 After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
 
