@@ -15,7 +15,7 @@ Ces ressources s’adressent aux chercheur·e·s, enseignant·e·s, vulgarisateu
 - [📌 Vidéo 5 – Les analogies en science : le pouvoir d’expliquer simplement](https://youtu.be/Zvzw3rqHf4E)
 - [📌 Vidéo 6 Parler à la Caméra avec Impact ! ](https://youtu.be/z9VWBcAIpU0)
 - [📌 Vidéo 7 Rédiger un Script Impactant ](https://youtu.be/E3kLU2LPAU4)
-- [📌 Vidéo 8 Créer du Contenu Scientifique en 2025 ]([https://youtu.be/E3kLU2LPAU4](https://youtu.be/P69Bz_e6qTE))
+- [📌 Vidéo 8 Créer du Contenu Scientifique en 2025 ](https://youtu.be/P69Bz_e6qTE)
 
 ---
 
